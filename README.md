@@ -1,44 +1,34 @@
-# Frontend Mentor - Results summary component solution
+# Results Summary Component
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Repositório criado para o exercício ["Results Summary Component"](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) do [Frontend Mentor](https://www.frontendmentor.io).
 
-## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+## 🎯Desafio
 
-## Overview
+"This challenge has something for everyone. It’s a HTML and CSS only project, but we’ve also provided a JSON file of the test results for anyone wanting to practice JS."
 
-### The challenge
+*(Este desafio tem algo para todos. É um projeto apenas em HTML e CSS, mas também fornecemos um ficheiro JSON com os resultados dos testes para quem quiser praticar JS.)*
 
-Users should be able to:
+### ⚒️ Tecnologias utilizadas 
+- HTML5
+- CSS3
 
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+### 🤩 Resultado
 
-### Screenshot
+- [Confira aqui o resultado!](https://fem-vn-results-summary-component.netlify.app)
 
-![](./design/solution-screenshot.png)
+### 📸 Screenshots
 
-### Links
+<details style="margin-left: 28px;">
+  <summary style="margin-bottom: 10px;">Desktop:</summary>
+  
+  <img src="./solution/solution-desktop-screenshot.png" alt="Desktop solution screenshot" style="width: 400px;"></img>
+     
+</details>
 
-- Solution URL: [https://nuzzi-results-summary-component.netlify.app/](https://nuzzi-results-summary-component.netlify.app/)
+<details style="margin-left: 28px;">
+  <summary style="margin-bottom: 10px;">Mobile:</summary>
+  
+  <img src="./solution/solution-mobile-screenshot.png" alt="Mobile solution screenshot" style="height: 400px;"></img>
 
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-
-## Author
-
-- Website - [...]()
-- Frontend Mentor - [@victormnuzzi](https://www.frontendmentor.io/profile/victormnuzzi)
+</details>
