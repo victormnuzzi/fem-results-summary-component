@@ -1,4 +1,4 @@
-# Results Summary Component
+# 💪 Results Summary Component
 
 Repositório criado para o exercício ["Results Summary Component"](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) do [Frontend Mentor](https://www.frontendmentor.io).
 
